@@ -1,0 +1,70 @@
+body{
+    color: #F3EEE3 ;
+    background-color: #F3E7D9;
+}
+
+.zaglowek{
+    width: 100%;
+    height: 40%;
+    background-color: #41302a ;
+    margin-top: 1%;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 500%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 5%;
+    font-size: 300%;
+}
+
+.tresc{
+    width: 100%;
+    height: 60%;
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.obr1{
+    margin-right: 2%;
+}
+
+.ital{
+    margin-bottom: 2%;
+    position: relative;
+    
+}
+
+h3{
+    position: absolute;
+    bottom: 0;
+    font-size: 500%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ind{
+    margin-bottom: 2%;
+    position: relative;
+}
+
+.mex{
+    position: relative;
+}
+.jap{
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+    color: #F3EEE3;
+}
+
+h3:hover{
+    text-decoration: none;
+    color: #41302a;
+}
